@@ -27,4 +27,5 @@ var salaryWithVar = 15000000;
 const salaryWithConst = 15000000;
 
 // Terjadi error
-// 
+// Reference Error
+// Karna adanya tidak adanya inisialisasi variabel salaryWithConst sebelum variabel tersebut dipanggil dengan console.log.
